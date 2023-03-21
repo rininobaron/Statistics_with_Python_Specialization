@@ -1,1 +1,3 @@
-# Statistics_with_Python_Specialization
+# Statistics with Python Specialization
+
+This repository contains the solution of Statistics with Python Specialization offered by UNiversity of Michigan in Coursera.
